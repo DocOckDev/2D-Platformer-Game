@@ -1,2 +1,2 @@
 # Platformer Logic
-Full 2D Platformer Game Made With Unity
+The Logic Behind 2D Platformer Games 
