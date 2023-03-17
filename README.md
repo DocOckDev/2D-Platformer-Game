@@ -1,2 +1,2 @@
-# 2D-Platformer-Game
+# Platformer Logic
 Full 2D Platformer Game Made With Unity
